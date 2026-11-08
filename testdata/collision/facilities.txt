@@ -1,0 +1,6 @@
+# Collision test: with capacity 11, F009, F010 and F034 all hash to bucket 0.
+# f009 is a lowercase duplicate of F009 and must NOT change the collision count.
+F009|Room 205|Science Building|Classroom
+F010|Research Help Desk|Library|Library
+F034|Weight Room|Gym|Recreation
+f009|Duplicate Of F009|Gym|Recreation

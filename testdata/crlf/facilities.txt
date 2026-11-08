@@ -1,0 +1,2 @@
+f001 | Room #5 |  library | Classroom 
+F002|Gym Floor|GYM|Recreation

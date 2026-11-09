@@ -1,0 +1,9 @@
+# departments with problems
+University|NONE
+College of Science|university
+science|Atlantis Dept
+university|NONE
+Mathematics|College of Science
+Physics
+Other Root|NONE
+|University

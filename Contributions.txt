@@ -1,0 +1,45 @@
+PROJECT 2 – TEAM CONTRIBUTIONS
+Smart Campus Navigation and Facility Analytics System
+Milestone 1
+
+1. MEMBER A
+
+Name: Soham Mangesh Kale
+GitHub: SohamMangeshKale
+
+Responsibilities:
+- Facility data structure and facility records.
+- Custom hash table implementation.
+- Facility ID normalization and searching.
+- File loading and validation for facility records.
+- Facility-related test data and testing.
+- Contributions to the main program and integration.
+
+2. MEMBER B
+
+Name: Anshika Alok Pandey
+GitHub: Anshika-p18
+
+Responsibilities:
+- Campus graph implementation.
+- Building vertices and undirected connections.
+- Breadth-First Search (BFS) reachability.
+- Department tree implementation and related operations, if assigned to this member.
+- Graph and tree test data.
+- Graph and tree testing.
+
+4. SHARED TEAM RESPONSIBILITIES
+
+All team members contributed to the overall project through:
+- Discussing the project requirements and implementation approach.
+- Integrating individual modules into the shared repository.
+- Testing and reviewing project functionality.
+- Maintaining the GitHub repository and separate development branches.
+- Preparing project documentation and submission materials.
+
+5. GITHUB COLLABORATION
+
+The team used GitHub for version control and collaboration. Members developed their assigned work on separate branches and uploaded their changes for integration into the main branch.
+
+The repository contains contributions from the participating team members.
+

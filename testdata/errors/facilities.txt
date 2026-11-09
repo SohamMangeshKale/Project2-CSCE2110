@@ -1,0 +1,11 @@
+# facilities with problems
+F001|Main Reading Room|Library|Library
+f002|Tutoring Center|library|Tutoring Center
+F001|Copy|Gym|Recreation
+f001|Copy2|Gym|Recreation
+F1|Bad Id|Library|Library
+F004|Room #5|Gym|classroom
+F005|Room 5|Atlantis|Classroom
+F006||Gym|Recreation
+F007|Short|Gym
+F008|Lab|Science Building|CLASSROOM

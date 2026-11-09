@@ -1,0 +1,10 @@
+# connections with problems
+Library|Student Union
+student union|LIBRARY
+Library|Student Union
+Gym|Gym
+Library|Atlantis
+Library
+Library|Gym|Extra
+science building|gym
+Gym|

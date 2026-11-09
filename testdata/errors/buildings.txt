@@ -1,0 +1,10 @@
+# buildings with problems
+Library
+
+   Student Union   
+library
+Science Building
+Bad|Name
+Gym
+  # indented comment line
+Observatory

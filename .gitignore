@@ -1,0 +1,28 @@
+# Compiled executables
+campus
+campus.exe
+*.exe
+*.out
+
+# Object and compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Debug and temporary files
+*.log
+*.tmp
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Operating system files
+.DS_Store
+Thumbs.db
